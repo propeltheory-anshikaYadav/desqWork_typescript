@@ -9,7 +9,7 @@ export default function LandingPages(){
         <Header/>
         <SideBar/>
         <Routes>
-            <Route path="/signIn" element={<Body/>}></Route>
+            <Route path="/" element={<Body/>}></Route>
         </Routes>
         </>
     )
