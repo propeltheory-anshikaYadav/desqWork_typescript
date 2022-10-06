@@ -1,0 +1,69 @@
+.signIn_mainContainer{
+    display: flex;
+    width: 1148px;
+    height: 604px;
+    margin: auto;
+    
+    
+}
+.signIn_leftSection{
+    width: 60%;
+    height: 604px;
+    background-color: #41B09C;
+}
+.signIn_leftSection h2{
+color: white;
+margin-left: 78px;
+font-family: 'Museo Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+padding-top: 63px;
+}
+.signIn_leftSection span{
+  color: #FFDEAD;
+  font-family: 'Museo Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+}
+.signIn_content {
+margin-top: 100px;
+
+}
+.signIn_content p{
+    width: 576px;
+    height: 57px;
+    margin-left: 78px;
+    color: white;
+}
+.signIn_rightSection{
+    padding-left: 54px;
+    padding-top: 93px;
+}
+.signIn_inputBox{
+    width: 328px;
+    height: 35px;
+    border: none;
+    border-bottom: 1px solid;
+    margin-top: 8px;
+    background-color: transparent;
+}
+#checkBox{
+    margin-top: 32px;
+}
+.signInBtn{
+    margin-top: 32px;
+    width: 328px;
+    height: 45px;
+    background-color:#41B09C;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.signUp_link{
+    color: #47D0B8;
+    text-decoration: none;
+}

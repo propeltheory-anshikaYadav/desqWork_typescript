@@ -1,0 +1,371 @@
+.signIn_mainContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 1148px;
+  height: 604px;
+  margin: auto;
+}
+
+.signIn_leftSection {
+  width: 60%;
+  height: 604px;
+  background-color: #41B09C;
+}
+
+.signIn_leftSection h2 {
+  color: white;
+  margin-left: 78px;
+  font-family: 'Museo Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  padding-top: 63px;
+}
+
+.signIn_leftSection span {
+  color: #FFDEAD;
+  font-family: 'Museo Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.signIn_content {
+  margin-top: 100px;
+}
+
+.signIn_content p {
+  width: 576px;
+  height: 57px;
+  margin-left: 78px;
+  color: white;
+}
+
+.signIn_rightSection {
+  padding-left: 54px;
+  padding-top: 93px;
+}
+
+.signIn_inputBox {
+  width: 328px;
+  height: 35px;
+  border: none;
+  border-bottom: 1px solid;
+  margin-top: 8px;
+  background-color: transparent;
+}
+
+#checkBox {
+  margin-top: 32px;
+}
+
+.signInBtn {
+  margin-top: 32px;
+  width: 328px;
+  height: 45px;
+  background-color: #41B09C;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.signUp_link {
+  color: #47D0B8;
+  text-decoration: none;
+}
+
+.signUp_mainContainer {
+  width: 1148px;
+  height: 604px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.signUp_leftSection {
+  height: 604px;
+  width: 45%;
+  background-color: #41B09C;
+}
+
+.signUp_leftSection h2 {
+  margin-left: 78px;
+  margin-top: 63px;
+  color: white;
+  font-family: 'Museo Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.signUp_leftSection span {
+  color: #FFDEAD;
+}
+
+.signUp_content h2 {
+  width: 231px;
+  margin-top: 150px;
+}
+
+.signUp_content p {
+  width: 378px;
+  height: 95px;
+  color: white;
+  margin-left: 78px;
+}
+
+.signUp_form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.signUp_rightSection {
+  padding-left: 54px;
+}
+
+#privacyPolicy_text {
+  margin-top: 32px;
+}
+
+.createAccount_btn {
+  width: 160px;
+  height: 45px;
+  background-color: #41B09C;
+  color: white;
+  border: none;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+.Company_Name {
+  font-family: 'Museo Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  text-decoration: none;
+  color: white;
+}
+
+.Company_Name span {
+  color: black;
+}
+
+.headerBar {
+  background-color: #3AC0C4;
+  height: 85px;
+  width: 100%;
+}
+
+.bodyContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.left_container {
+  margin-top: 21px;
+  margin-left: 93px;
+}
+
+.right_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-right: 124px;
+}
+
+.input_container {
+  width: 305px;
+  height: 49px;
+  background-color: #FFFFFF30;
+  margin-top: 22px;
+  border-radius: 5px;
+}
+
+.input_container input {
+  background-color: transparent;
+  border: none;
+}
+
+.input_container img {
+  margin-top: 15px;
+  margin-left: 90px;
+}
+
+.header_icons {
+  margin-left: 33px;
+  height: 17px;
+  margin-top: 38px;
+}
+
+.sideBar_container {
+  width: 93px;
+  height: 715px;
+  background-color: #53D7D73D;
+  float: left;
+}
+
+.sideBar_container:hover {
+  width: 186px;
+}
+
+.sideBar_links img {
+  margin-top: 29px;
+  margin-left: 21px;
+}
+
+.icons {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.body_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left_section_UpperContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.body_left_section {
+  width: 70%;
+}
+
+.navBoxes {
+  width: 136px;
+  height: 158px;
+  background-color: #D1DEFE;
+  margin-left: 16px;
+  margin-top: 34px;
+  border-radius: 5px;
+}
+
+.navBoxes img {
+  margin-left: 57px;
+  margin-top: 47px;
+}
+
+.navBoxes p {
+  width: 85px;
+  height: 44px;
+  margin-left: 25px;
+  text-align: center;
+}
+
+.navBoxes_link {
+  text-decoration: none;
+  color: black;
+}
+
+.memberList {
+  margin-left: 16px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.booking_duration {
+  width: 305px;
+  height: 40px;
+  background-color: #FFDEAD;
+  margin-top: 16px;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.booking_duration p {
+  margin-left: 16px;
+  padding-top: 0px;
+  margin-top: 5px;
+}
+
+.upcoming_booikng {
+  width: 305px;
+  height: 40px;
+  background-color: #7EA7E1;
+  margin-top: 16px;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.upcoming_booikng p {
+  margin-left: 16px;
+  padding-top: 0px;
+  margin-top: 5px;
+}
+
+.upcoming_booikng select {
+  background-color: transparent;
+  border: none;
+  margin-left: 110px;
+}
+
+.department_meeting {
+  width: 305px;
+  height: 40px;
+  background-color: #BEDFFD;
+  margin-top: 16px;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.department_meeting p {
+  margin-left: 16px;
+  padding-top: 0px;
+  margin-top: 5px;
+}
+
+.connections {
+  width: 304px;
+  height: 409px;
+  background-color: #E5EFEF;
+  margin-top: 16px;
+}
+
+.connection_headerBar {
+  width: 304px;
+  height: 40px;
+  background-color: #53D7D780;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.connection_headerBar p {
+  margin-left: 16px;
+  padding-top: 0px;
+  margin-top: 5px;
+}
+/*# sourceMappingURL=main.css.map */

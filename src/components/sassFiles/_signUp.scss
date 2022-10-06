@@ -1,0 +1,54 @@
+.signUp_mainContainer{
+    width: 1148px;
+    height: 604px;
+ 
+    display: flex;
+    
+}
+.signUp_leftSection{
+    height: 604px;
+    width: 45%;
+    background-color: #41B09C;
+}
+.signUp_leftSection h2{
+    margin-left: 78px;
+    margin-top: 63px;
+    color: white;
+    font-family: 'Museo Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+}
+.signUp_leftSection span{
+    color: #FFDEAD;
+    
+}
+.signUp_content h2{
+    width: 231px;
+    margin-top: 150px;
+}
+.signUp_content p{
+    width: 378px;
+    height: 95px;
+    color: white;
+    margin-left: 78px;
+}
+.signUp_form{
+    display: flex;
+}
+.signUp_rightSection{
+    padding-left: 54px;
+}
+#privacyPolicy_text{
+    margin-top: 32px;
+}
+.createAccount_btn{
+    width: 160px;
+    height: 45px;
+    background-color: #41B09C;
+    color: white;
+     border: none;
+     margin-top: 40px;
+     border-radius: 5px;
+}

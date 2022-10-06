@@ -1,0 +1,63 @@
+
+.Company_Name{
+font-family: 'Museo Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+text-decoration: none;
+color:white;
+}
+.Company_Name span{
+    color: black;
+}
+.headerBar{
+    background-color:#3AC0C4;
+    height: 85px;
+    width: 100%;
+}
+.bodyContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.left_container {
+    margin-top: 21px;
+    margin-left:93px ;
+    
+    
+}
+.right_container{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 124px;
+  
+}
+.input_container{
+    width: 305px;
+    height: 49px;
+    background-color: #FFFFFF30;
+    margin-top: 22px;
+    border-radius: 5px;
+   
+}
+.input_container input{
+    
+   background-color: transparent;
+    border: none;
+    
+}
+.input_container img{
+    margin-top: 15px;
+    margin-left: 90px;
+    
+}
+.header_icons{
+    margin-left: 33px;
+    // background-color: red;
+    height: 17px;
+    margin-top: 38px;
+}

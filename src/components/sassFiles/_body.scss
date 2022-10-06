@@ -1,0 +1,108 @@
+
+.body_main_container{
+    // background-color:#D6D6D6;
+    // height: 715px;
+    // width: 100%;
+    // margin-left: 93px;
+}
+.body_container{
+    display: flex;
+}
+.left_section_UpperContainer{
+    display: flex;
+}
+.body_left_section{
+    width: 70%;
+}
+.navBoxes{
+    width: 136px;
+    height: 158px;
+    background-color: #D1DEFE;
+    margin-left: 16px;
+    margin-top: 34px;
+    border-radius: 5px;
+}
+.navBoxes img{
+    margin-left: 57px;
+    margin-top: 47px;
+}
+.navBoxes p{
+    width: 85px;
+    height: 44px;
+    margin-left: 25px;
+    text-align: center;
+}
+.navBoxes_link{
+    text-decoration: none;
+    color: black;
+    
+}
+.memberList{
+    margin-left: 16px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+}
+.booking_duration{
+    width: 305px;
+    height: 40px;
+    background-color:  #FFDEAD;
+    margin-top: 16px;
+    border-radius: 5px;
+    display: flex;
+}
+.booking_duration p{
+    margin-left: 16px;
+    padding-top: 0px;
+    margin-top: 5px;
+}
+.upcoming_booikng{
+    width: 305px;
+    height: 40px;
+    background-color:#7EA7E1;
+     margin-top: 16px;
+    border-radius: 5px;
+    display: flex;
+}
+.upcoming_booikng p{
+    margin-left: 16px;
+    padding-top: 0px;
+    margin-top: 5px;
+}
+.upcoming_booikng select{
+    background-color: transparent;
+    border: none;
+    margin-left: 110px;
+}
+.department_meeting{
+    width: 305px;
+    height: 40px;
+    background-color:#BEDFFD;
+     margin-top: 16px;
+    border-radius: 5px;
+    display: flex;
+}
+.department_meeting p{
+    margin-left: 16px;
+    padding-top: 0px;
+    margin-top: 5px;
+}
+.connections{
+    width: 304px;
+    height: 409px;
+    background-color: #E5EFEF;
+    margin-top: 16px;
+}
+.connection_headerBar{
+    width: 304px;
+    height: 40px;
+    background-color:  #53D7D780;
+    display: flex;
+}
+.connection_headerBar p{
+    margin-left: 16px;
+    padding-top: 0px;
+    margin-top: 5px;
+}
